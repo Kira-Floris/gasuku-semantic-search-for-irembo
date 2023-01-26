@@ -1,0 +1,572 @@
+[
+    {
+        "title":"Icyemezo cy'ubupfakazi",
+        "description":"Icyemezo cy'Ubupfakazi ni icyemezo cyiriho umukono y'ushinzwe irangamimerere ku murenge. Gihabwa abanyarwanda iyo abo bashakanye bitabye Imana, cyikagaragaza irangamimerere yabo. Dosiye isaba yoherezwa mu buyobozi bw'inzego z'ibanze ku murenge kugirango isuzumwe.",
+        "prodTime": "Umunsi 1",
+        "price": "RWF 1,500",
+        "providedBy": "MINALOC",
+        "hasSelection": false,
+        "selectOptions":null,
+        "section":"Umuryango",
+        "more":null,
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/widow_widower_certificate"
+    },
+    {
+        "title":"Icyemezo cy'uko utuye",
+        "description":"Icyemezo cy'uko Umuntu Atuye gitangwa n'ubuyobozi cyikerekana aho umuntu atuye. Dosiye isaba yoherezwa mu buyobozi bw'inzego z'ibanze ku murenge aho usaba atuye kugirango isuzumwe.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 1,500",
+        "providedBy":"MINALOC",
+        "hasSelection":true,
+        "selectOptions":["Ndisabira", "Umwana"],
+        "section":"Umuryango",
+        "more":null,
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/certificate_of_residence"
+    },
+    {
+        "title":"Icyemezo cy'uwacitse ku icumu rya Jenoside yakorewe Abatutsi mu 1994",
+        "description":"Icyemezo cy'uko Umuntu Atuye gitangwa n'ubuyobozi cyikerekana aho umuntu atuye. Dosiye isaba yoherezwa mu buyobozi bw'inzego z'ibanze ku murenge aho usaba atuye kugirango isuzumwe.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 1,500",
+        "providedBy":"MINALOC",
+        "hasSelection": true,
+        "selectOptions":["Ndisabira","Umwana"],
+        "section":"Umuryango",
+        "more":null,
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/certificate_of_genocide_survivors"
+    },
+    {
+        "title":"Icyemezo cy'uko uri ingaragu",
+        "description":"Icyemezo cy'uko Umuntu ari Ingaragu gitangwa n'ubuyobozi cyikerekana ko ari ingaragu. Icyi cyemezo gishobora gukoreshwa mu gusaba serivisi zinyuranye nko kwiyandikisha kugirango ushyingirwe, gusaba inguzanyo muri banki, gushaka ubwishingizi, n'ibindi...Dosiye isaba yoherezwa mu buyobozi bw'inzego z'ibanze ku murenge kugirango isuzumwe. Icyi cyemezo ifite agaciro k'amezi atatu.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 500",
+        "providedBy":"MINALOC",
+        "hasSelection": false,
+        "selectOptions":null,
+        "section":"Umuryango",
+        "more":null,
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/certificate_for_being_single"
+    },
+    {
+        "title":"Serivisi z'Ubutane : Inyandiko u'Ubutane",
+        "description":"The Divorce Record is issued to Rwandan citizens who have undergone the process of cancelling their marriage. It is a confirmation of one's civil status as 'Divorced'. It is either automatically processed by the CRVS system or manually processed by local government authorities at the sector level, upon issuance of a copy of the court judgment which confirms that the person is divorced.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 2,000",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":null,
+        "section":"Umuryango",
+        "more":null,
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/divorce_record"
+    },
+    {
+        "title":"Serivisi z'Ubutane : Icyemezo cy'ubutane",
+        "description":"Icyemezo cy'uwatandukanye n'uwo bashakanye gihabwa abanyarwanda bamaze gusesa amasezerano yo gushyingirwa. Icyi cyemezo gitangwa na serivisi y'rangamimerere cyikemeza ko ugihawe yatandukanye n'uwo bashakanye nyuma y'uko byemejwe n'urukiko. Gitangirwa ku murenge, abagisaba berekana inyandiko y'urubanza rwemeza ko batandukanye.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 1,500",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/divorce_record"
+    },
+    {
+        "title":"Inyandiko yo kwemera umwana wabyawe n'ababyeyi batashyingiranwe",
+        "description":"Iyi serivisi ifasha ababyeyi bemeye abana byemewe n'amategeko gusaba Inyandiko yo kwemera umwana. Dosiye isaba yohererezwa umukozi ushinzwe irangamimerere ku murenge umwana yanditswemo.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 2,000",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":null,
+        "section":"Umuryango",
+        "more":null,
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/child_recognition_record_certificate"
+    },
+    {
+        "title":"Inyandiko y'ubwishingire",
+        "description":"Iyi serivisi ifasha abayikoresha gusaba Inyandiko yo Kwishingira Umwana. Dosiye isaba yohererezwa umukozi ushinzwe irangamimerere ku murenge umwana yanditswemo.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 2,000",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":null,
+        "section":"Umuryango",
+        "more":null,
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/guardianship_record_certificate"
+    },
+    {
+        "title":"Icyemezo cy'izungura",
+        "description":"Icyemezo cyo Kuzungurag ihabwa umunyarwanda uzungura ibyasizwe n'uwo mu muryango we witabye Imana. Icyi cyemezo gitangirwa ku murenge uwitabye Imana yari atuyemo. Amafishi 7 na 29 (ku butaka) ushobora kuyasanga ku murenge.",
+        "prodTime":"Umunsi 3",
+        "price":"Ntiyishyurwa",
+        "providedBy":"MINALOC",
+        "hasSelection":true,
+        "selectOptions":["Ndisabira","Umwana"],
+        "more":{
+            "title":"Imigereka isabwa",
+            "details":"Imyanzuru y'inama yabahagarariye umuryango"
+        },
+        "section":"Umuryango",
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/certificate_of_succession"
+    },
+    {
+        "title":"Icyemezo cy'imibanire y'abashyingiranwe",
+        "description":"Icyi cyemezo gihabwa umunyamahanga uba mu Rwanda iyo abana n'umunyarwanda/kazi basezeranye mu buryo bwemewe n'amategeko. Icyi cyemezo gifasha umunyamahanga gusaba ubwenegihugu bw'u Rwanda. Umunyarwanda ashobora kugikoresha asaba serivisi mu gihugu cy'uwo bashakanye (urugero: viza, ubwenegihugu, cyangwa kwandikisha abana, n'ibindi.).",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 1,500",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Imigereka isabwa",
+                "details":"Kopi ya Pasiporo (ku banyamahanga)"
+            },
+            {
+                "title":"Umwe muri iyi migereka urakenewe (3)",
+                "details":"1. Icyemezo cyo kuba Warashyingiwe, 2. Inyandiko Mpine y'Ishyingirwa, 3. Inyandiko y'Ishyingirwa"
+            }
+        ],
+        "section":"Umuryango",
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/certificate_of_cohabitation"
+    },
+    {
+        "title":"Serivisi z'amavuko: Inyandiko y'ivuka",
+        "description":"Iyi serivisi yemerera abanyarwanda gusaba Inyandiko y'Ivuka. Dosiye itunganywa n'inzego za leta ku rwego rw'umurenge aho usaba icyemezo yabaruriwe.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 2,000",
+        "providedBy":"MINALOC",
+        "hasSelection":true,
+        "selectOptions":["Ndisabira","Umwana"],
+        "more":[
+            {
+                "title":"Indi migereka yasabwa (3)",
+                "details":"1. Pasiporo ya Nyina, 2. Pasiporo ya Se, 3. Kopi ya pasiporo y'Umenyekanisha"
+            }
+
+        ],
+        "section":"Umuryango",
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/birth_record_new"
+    },
+    {
+        "title":"Serivisi z'amavuko: Icyemezo cy'amavuko",
+        "description":"Iyi servisi ifasha abanyarwanda gusaba Icyemezo cy'Amavuko. Dosiye isaba yoherezwa ku buyobozi bw'inzego z'ibanze ku Murenge kugirango itunganywe.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 500",
+        "providedBy":"MINALOC",
+        "hasSelection":true,
+        "selectOptions":["Ndisabira","Umwana"],
+        "more":null,
+        "section":"Umuryango",
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/birth_record_new"
+    },
+    {
+        "title":"Serivisi z'ishyingirwa: Icyemezo cyo kuba Warashyingiwe",
+        "description":"Icyemezo cy'uko umuntu yashyingiwe gitangwa n'ubuyobozi cyerekana ko umugabo n'umugore bashyingiwe mu buryo bwemewe n'amategeko. Dosiye isaba yoherezwa mu buyobozi bw'inzego z'ibanze ku murenge aho basezeraniye kugirango isuzumwe.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 500",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions": null,
+        "more":null,
+        "section":"Umuryango",
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/marriage_declaration"
+    },
+    {
+        "title":"Serivisi z'ishyingirwa: Kwandikisha Ishyingirwa",
+        "description":"Iyi serivisi yemerera abanyarwanda n'abanyamahanga baba mu Rwanda kwiyandikisha kugira ngo bashyingirwe byemewe n'amategeko. Abashaka gushyingirwa bagomba kwiyandikisha iminsi 21 mbere y'uko bashyingirwa. Iyo nta mbogamizi zihari, ishyingirwa rirakorwa, abakozi b'umurenge bagatanga Inyandiko y'Ishyingirwa.",
+        "prodTime":"Umunsi 3",
+        "price":"Ntiyishyurwa",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Imigereka isabwa (2)",
+                "details":"1. Icyemezo cy'amavuko (umugore), 2. Icyemezo cy'amavuko (umugabo)"
+            },
+            {
+                "title":"Indi migereka yasabwa (10)",
+                "details":["Ifoto ngufi (pasiporo) y'umugore", " Kopi y'icyangombwa/indangamuntu (umugabo)", "Icyemezo cy'uko uri ingaragu (umugore)","Icyemezo cy'uko uri ingaragu (umugabo)", "Icyemezo cy'ubutane (umugabo)"," Kopi y'icyangombwa/indangamuntu (umugore)","Ifoto ngufi (pasiporo) y'umugabo"," Icyemezo cy'ubupfakazi (umugabo)","Icyemezo cy'ubupfakazi (umugore)","Icyemezo cy'ubutane (umugore)"]
+            }
+        ],
+        "notice":"Umurenge wo gushyingirwamo ugomba kuba utuwemo n'umwe mu basaba iyi serivisi, cyangwa yarahavukiye.",
+        "section":"Umuryango",
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/marriage_declaration"
+    },
+    {
+        "title":"Serivisi z'ishyingirwa: Inyandiko y'Ishyingirwa",
+        "description":"Inyandiko y'Ishyingirwa ni icyangombwa gitangwa n'ubuyobozi cyemeza ko umugabo n'umugore bashyingiwe mu buryo bwemewe n'amategeko. Dosiye isaba itunganywa na sisitemu ya CRVS cyangwa n'ubuyobozi bw'inzego z'ibanze ku rwego rw'umurenge aho byemezwa ko amakuru yatanzwe mu nyandiko y'ishyingirwa ari ukuri.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 2,000",
+        "providedBy":"MINALOC",
+        "hasSelection": false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Imigereka isabwa",
+                "details":"Inyandiko y'ishyingirwa cyangwa ikindi gihamya ko mwashyingiwe"
+            }
+        ],
+        "notice":null,
+        "section":"Umuryango",
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/marriage_declaration"
+    },
+    {
+        "title":"Serivisi zihabwa uwitabye Imana: Inyandiko yuko umuntu yitabye Imana",
+        "description":"Inyandiko y'uko Umuntu yitabye Imana ni icyangombwa gitangwa n'ubuyobozi cyemeza ko umuntu yitabye Imana. Dosiye isaba itunganywa na sisitemu ya CRVS cyangwa n'ubuyobozi bw?inzego z?ibanze ku rwego rw'umurenge aho byemezwa ko uwitabye Imana yari yanditse ndetse ko amakuru yatanzwe mu nyandiko ari ukuri.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 2,000",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Indi migereka yasabwa (7)",
+                "details":["Nomero y'urubanza","Kopi y'icyangombwa cy'umenyekanisha","Raporo y'Akagari", "Imenyekanisha ry'urupfu rwo mubitaro (niba urupfu rwabereye mu bitaro)"," Inyandiko yemeza isano usaba afitanye n'uwitabye Imana"," Inyandiko yemeza impamvu yo gusaba dosiye",". Kopi y'icyangombwa cy'usaba"]
+            }
+        ],
+        "notice":null,
+        "section":"Umuryango",
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/death_record_new"
+    },
+    {
+        "title":"Serivisi zihabwa uwitabye Imana: Kwandukuza umuntu witabye Imana",
+        "description":"Iyi serivisi ifasha abayikoresha kwandukuza umuntu witabye Imana. Dosiye isaba yoherezwa muri serivisi y'irangamimerere yo mu murenge uwitabye Imana yabarizwagamo.",
+        "prodTime":"Umunsi 1",
+        "price":"Ntiyishyurwa",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Indi migereka yasabwa (4)",
+                "details":["Icyemezo cy'ibitaro cy'uko umuntu yitabye Imana (niba urupfu rwarabaye mubitaro)","Raporo y'Akagari (niba urupfu rwarabaye mubitaro)"," Kopi ya Pasiporo (niba uwapfuye ari umunyamahanga)","Icyemezo cy'urukiko (Niba urupfu rutanditswe mu minsi 15 nyuma y'urupfu rubaye)"]
+            }
+        ],
+        "notice":null,
+        "section":"Umuryango",
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/death_record_new"
+
+    },
+    {
+        "title":"Inyandiko yo kubera umubyeyi umwana utabyaye",
+        "description":"Iyi serivisi ifasha abayikoresha gusaba Inyandiko yo Kubera Umubyeyi Umwana Utabyaye. Dosiye isaba yohererezwa umukozi ushinzwe irangamimerere ku murenge umwana yanditswemo.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 2,000",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Umuryango",
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/adoption_record_certificate"
+    },
+    {
+        "title":"Kwishyura ibihano",
+        "description":"Iyi serivisi ifasha abayikoresha kwishyura ibihano bahawe. Abi bihano birimo ibitangwa n'ubuyobozi, ibihabwa kompanyi zitwara abantu, ibitangwa ku makosa ajyanye n'inzandiko z'inzira, viza, n'impushya zo kuba mu Rwanda.",
+        "prodTime":"Iminsi 7",
+        "price":"Kirahinduka",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/dgie_penalties_payment"
+    },
+    {
+        "title":"Kwishyura DPA",
+        "description":"Iyi serivisi ifasha abanyarwanda baba mu mahanga barengeje imyaka 16 badafite indangamuntu kwishyura pasiporo korangabuhanga basabiye kuri ambasade. Kugirango bashobore kwishyura, bakeneye nomero ya dosiye itangwa na DGIE iyo bamaze gusaba serivisi kuri ambasade.",
+        "prodTime":"Iminsi 7",
+        "price":"Kirahinduka",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/epassport_diaspora"
+    },
+    {
+        "title":"Serivisi CEPGL : Gusimbuza urwandiko rw'inzira rwa CEPGL",
+        "description":"Iyi serivisi yemerera abanyarwanda cyangwa abanyamahanga baba mu Rwanda gusimbuza urwandiko rw'inzira rwa CEPGL mu gihe rwaba rwatakaye, rwangiritse cyangwa rwibwe.",
+        "prodTime":"Umunsi 1",
+        "price":"Kirahinduka",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Mu gihe wifuje kuvugurura urwandiko rw'inzira rwa CEPGL, hitamo serivisi yo Gusaba urundi rwandiko mu mwanya wa serivisi yo Gusimbuza.",
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/cepgl_travel_document_new"
+    },
+    {
+        "title":"Serivisi CEPGL: Gusaba urundi rwandiko rw'inzira rwa CEPGL",
+        "description":"Iyi serivisi yemerera abanyarwanda cyangwa abanyamahanga baba mu Rwanda kuvugurura/gusaba urundi rwandiko rw'inzira rwa CEPGL.",
+        "prodTime":"Umunsi 1",
+        "price":"Kirahinduka",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Mu gihe urwandiko rw'inzira rwa CEPGL rwabuze, rwibwe, cyangwa rwangijwe, hitamo serivisi yo Gusimbuza mu mwanya wa serivisi yo Gusaba urundi rwandiko.",
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/cepgl_travel_document_new"
+    },
+    {
+        "title":"Serivisi CEPGL: Gusaba Urwandiko rw'inzira rwa CEPGL",
+        "description":"Iyi serivisi yemerera abanyarwanda cyangwa abanyamahanga baba mu Rwanda gusaba urwandiko rw'inzira rwa CEPGL. Uru rwandiko rukoreshwa mu ngendo hagati y'ibihugu bigize umuryango wa CEPGL ari byo U Burundi ndetse na Repubulika iharanira Demokarasi ya Congo.",
+        "prodTime":"Umunsi 1",
+        "price":"Kirahinduka",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Mu gihe urwandiko rw'inzira rwa CEPGL rwabuze, rwibwe, rwangijwe, cyangwa wifuje gusaba urundi, hitamo Gusaba urundi rwandiko cyangwa Gusimbuza mu mwanya wo Gusaba urwandiko rushya.",
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/cepgl_travel_document_new"
+    },
+    {
+        "title":"Ubwenegihugu bw'U Rwanda: Kwishyurira Kureka Ubwenegihugu",
+        "description":"Iyi serivisi yemerera abayikoresha kwishyurira serivisi zisaba kureka ubwenegihugu. Dosiye zisaba kureka ubwenegihugu zoherezwa mu biro bya DGIE (Ibiro by'Igihugu bishinzwe Abinjira n'Abasohoka), Komisiyo Nkuru zihagarariye U Rwanda, cyangwa muri ambasade zihagarariye U Rwanda.",
+        "prodTime":"Kirahinduka",
+        "price":"RWF 150,000",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/citizenship_renunciation_payment"
+    }, 
+    {
+        "title":"Ubwenegihugu bw'U Rwanda: Kwishyurira Gusaba Ubwenegihugu",
+        "description":"Iyi serivisi yemerera abayikoresha kwishyurira serivisi zisaba ubwenegihugu. Ibi birimo kwishyurira gusaba ubwenegihugu ndetse no kwishyurira guhabwa ubwenegihugu. Dosiye zisaba ubwenegihugu zoherezwa mu biro bya DGIE (Ibiro by'Igihugu bishinzwe Abinjira n'Abasohoka), ndetse na ambasade zihagarariye U Rwanda.",
+        "prodTime":"Kirahinduka",
+        "price":"Kirahinduka",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/citizenship_renunciation_payment"
+    }, 
+    {
+        "title":"Kwimura Impushya cyangwa Viza",
+        "description":"Iyi serivisi yemerera umuntu gusaba kwimura impushya cyangwa viza muri pasiporo nshya. Gusaba iyi serivisi bikorwa n?abasanganywe impushya cyangwa viza nyarwanda ariko pasiporo yarabuze, yaribwe, cyangwa yarangiritse. Iyi serivisi ihabwa n?abashaka kwimura impushya cyangwa viza bahawe muri pasiporo nshya, bafite pasiporo zicyuye igihe.",
+        "prodTime":"Iminsi 7",
+        "price":"RWF 18,050",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Imigereka isabwa (3)",
+                "details":[" Ifoto ya pasiporo", "Kopi ya pasiporo nshya", "Urwandiko (rwandikiwe DGIE rusaba kwimura uruhushya cyangwa viza)"]
+            },
+            {
+                "title":"Indi migereka yasabwa (2)",
+                "details":["Kopi y?uruhushya cyangwa viza icyuye igihe","Icyemezo cy'uko wabuze pasiporo gitangwa na RIB"]
+            }
+        ],
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/application_for_permit_and_visa_transfer"
+    },
+    {
+        "title":"Impushya: Gusaba permit",
+        "description":"Iyi serivisi ifasha abayikoresha gusaba uruhushya rwo kuba mu Rwanda. Ukeneye iyi serivisi ayisaba yamaze kugera mu Rwanda. Uru ruhushya rufasha abashoramari, abikorera n'abakozi bo ku rwego mpuzamahanga gukorera mu Rwanda.",
+        "prodTime":"Iminsi 7",
+        "price":"Kirahinduka",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/request_a_permit"
+    },
+    {
+        "title":"Impushya: Gusaba urundi ruhushya",
+        "description":"Iyi serivisi ifasha abayikoresha kngeresha agaciro k'uruhushya rwo kuba mu Rwanda. Dosiye isaba yakirwa n'abakozi b'Ubuyobozi Bukuru bw'Abinjira n'Abasohoka mu Gihugu (DGIE) bakanayitunganya.",
+        "prodTime":"Iminsi 7",
+        "price":"Kirahinduka",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/request_a_permit"
+    },
+    {
+        "title":"Indangamuntu y'umunyamahanga: Gusaba indangamuntu y'umunyamahanga",
+        "description":"Iyi serivisi ifasha abanyamahanga baba mu Rwanda gusaba indangamuntu bakoresha mu Rwanda. Abanyamahanga bafite impushya zo kuba mu Rwanda zemewe n'amategeko nibo bahabwa izi ndangamuntu.",
+        "prodTime":"Iminsi 7",
+        "price":"RWF 5,000",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/foreigner_id_card"
+    },
+    {
+        "title":"Indangamuntu y'umunyamahanga: Guhinduza indangamuntu y'umunyamahanga",
+        "description":"Iyi serivisi ifasha abanyamahanga baba mu Rwanda gusaba kongererwa igihe cy'indangamuntu bakoresha mu Rwanda. Abanyamahanga bafite impushya zo kuba mu Rwanda zemewe n'amategeko nibo bahabwa izi ndangamuntu.",
+        "prodTime":"Iminsi 7",
+        "price":"RWF 5,000",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/foreigner_id_card"
+    },
+    {
+        "title":"Icyangombwa cy'inzira cy'umunyamahanga",
+        "description":"Iyi serivisi ifasha abanyamahanga gusaba urwandiko rw'inzira mu buryo bwihuse.",
+        "prodTime":"Iminsi 7",
+        "price":"RWF 10,000",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/foreigner_travel_document"
+    },
+    {
+        "title":"Gusaba pasiporo mu buryo bw'ikoranabuhanga",
+        "description":"Iyi serivisi yemerera abanyarwanda gusaba pasiporo nkoranabuhanga ya Rwanda East Africa (yatangiye gukoreshwa ku ya 28 Kamena 2019), ibafasha mu ngendo zo hanze yâ€™igihugu. Ibiro bikuru bishinzwe Abinjira nâ€™Abasohoka bitanga pasiporo zâ€™ubwoko butatu: pasiporo rusange, iyâ€™akazi, ndetse nâ€™iyabanyacyubahiro.",
+        "prodTime":"Iminsi yo gukora 4",
+        "price":"kirahinduka bitewe n'icyiciro cya pasiporo koranabuhanga",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Saba pasiporo nkoranabuhanga niba wifuza gusimbuza ubwoko bwa pasiporo ya kera (yakoreshwaga mbere ya 28 Kamena 2019), cyangwa ari bwo bwa mbere utunze pasiporo nyarwanda.",
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/request_a_passport"
+    },
+    {
+        "title":"Gusimbuza pasiporo",
+        "description":"Iyi serivisi yemerera abanyarwanda gusimbuza pasiporo nkoranabuhanga zabo za Rwanda East Africa (zatangiye gukoreshwa ku ya 28 Kamena 2019) mu gihe zatakaye, zibwe, zangiritse, cyangwa zacyuye igihe.",
+        "prodTime":"Iminsi yo gukora 4",
+        "price":"kirahinduka bitewe n'icyiciro cya pasiporo koranabuhanga",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Saba gusimbuza pasiporo niba pasiporo uheruka yari pasiporo nkoranabuhanga ya Rwanda East Africa (yatangiye gukoreshwa ku ya 28 Kamena 2019).",
+        "newNotice":"Amakuru mashya! Pasiporo rusange: abasaba bari hejuru y'imyaka 26 bashobora guhitamo pasiporo y'imyaka 5 cyangwa imyaka 10, abasaba bafite hagati y'imyaka 16 na 26 bashobora gusaba pasiporo y'imyaka 5 gusa, mu gihe abasaba bari munsi y'imyaka 16 bazakomeza guhabwa pasiporo y'imyaka 2.",
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/request_a_passport"
+    },
+    {
+        "title":"Urwandiko rw'inzira: Gusaba laissez-passer",
+        "description":"Iyi serivisi ifasha abanyarwanda gusaba Urwandiko rw'Inzira. Urwandiko rw'inzira ruhabwa abanyarwanda bose bujuje ibisabwa bifuza kujya mu bihugu bikurikira:Burundi, Repubulika Iharanira Demokarasi ya Kongo (DRC), Kenya, Tanzania, Uganda na Sudani y'Amajyepfo.",
+        "prodTime":"Iminsi 3",
+        "price":"kirahindinduka bitewe n'icyiciro cy'urwandiko rw'inzira",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/request_a_laissez_passer"
+    },
+    {
+        "title":"Urwandiko rw'inzira: Guhinduza laissez-passer",
+        "description":"Iyi serivisi ifasha abanyarwanda gusaba bundi bushya urwandiko rw'inzira rwatakaye cyangwa rwononekaye.",
+        "prodTime":"Iminsi 3",
+        "price":"kirahindinduka bitewe n'icyiciro cy'urwandiko rw'inzira",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/request_a_laissez_passer"
+    },
+    {
+        "title":"Urwandiko rw'inzira: Gusaba indi laissez-passer",
+        "description":"Iyi serivisi ifasha abanyarwanda kongeresha agaciro k'urwandiko rw'inzira rwarengeje igihe.",
+        "prodTime":"Iminsi 2",
+        "price":"kirahindinduka bitewe n'icyiciro cy'urwandiko rw'inzira",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/request_a_laissez_passer"
+    },
+    {
+        "title":"Gusaba Viza",
+        "description":"Iyi serivisi ifasha abayikoresha gusaba viza. Ushobora gusaba viza yo kwinjira mu Rwanda ubikoreye kuri interineti cyangwa uhageze uturutse mu gihugu icyo aricyo cyose.",
+        "prodTime":"Iminsi 7",
+        "price":"Kirahinduka",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":" Icyitonderwa: niba wamaze kugera mu Rwanda ukaba wifuza kongera igihe cyo kuguma mu gihugu, ntusabe viza ahubwo saba kongeresha igihe cyayo cyangwa izindi 'mpushya'",
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/request_a_visa"
+    },
+    {
+        "title":"Gusaba indi viza",
+        "description":"Iyi serivisi ifasha abayikoresha kongeresha agaciro ka viza. Dosiye isaba yakirwa n'abakozi b'Ubuyobozi Bukuru bw'Abinjira n'Abasohoka mu Gihugu (DGIE) bakanayitunganya.",
+        "prodTime":"Iminsi 7",
+        "price":"Kirahinduka",
+        "providedBy":"DGIE",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Abinjira N'abasohoka",
+        "link":"https://irembo.gov.rw/user/citizen/service/dgie/request_a_visa"
+    },
+    {
+        "title":"Gusaba Indangamuntu",
+        "description":"Iyi serivisi yemerera abanyarwanda baba mu mahanga gusaba Indagamuntu n'umubare wa NPR. Indangamuntu ni icyangombwa kigaragaza ku mugaragaro umuntu mukuru nk'umuturage w'u Rwanda. Umubare wa NPR ni umubare ugaragaza umunyarwanda uwo ari we wese mu gitabo cy'igihugu gishinzwe kwandika abaturage, kandi kugirango ubashe gusaba indangamuntu ugomba kuba ufite uyu mubare.",
+        "prodTime":"Iminsi 30",
+        "price":"RWF 500",
+        "providedBy":"NIDA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/nida/application_for_national_id",
+        "section":"Irangamimerere"
+    },
+    {
+        "title":"Gusaba Indangamuntu",
+        "description":"Iyi servisi ifasha umunyarwanda wese ubyifuza gusaba indangamuntu ubwa mbere. Usaba agomba kuba afite nomero y'ifishi muri NIDA. Udafite nomero y'ifishi agomba kujya kuyisaba umukozi ushinzwe irangamimerere mu murenge yitwaje icyangombwa kimuranga afite. Kubindi bisobanuro: info@nida.gov.rw",
+        "prodTime":"Iminsi 30",
+        "price":"RWF 500",
+        "providedBy":"NIDA",
+        "hasSelection":true,
+        "selectOptions":["Ndisabira","Benshi"],
+        "more":null,
+        "notice":null,
+        "link":"https://irembo.gov.rw/user/citizen/service/nida/application_for_national_id",
+        "section":"Irangamimerere"
+    }
+]
