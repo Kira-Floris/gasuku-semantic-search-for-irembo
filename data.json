@@ -568,5 +568,388 @@
         "notice":null,
         "link":"https://irembo.gov.rw/user/citizen/service/nida/application_for_national_id",
         "section":"Irangamimerere"
+    },
+    {
+        "title":"Kwiyandikisha mu gitabo cyandikwamo abaturage",
+        "description":"Iyi serivisi ifasha abanyarwanda batanditswe bakivuka kwiyandikisha mu gitabo cyandikwamo abaturage. Usaba iyi serivisi agomba kuba afite inyandiko zerekana ko ari umunyarwanda. Nyuma yo kwiyandikisha, usaba ahabwa nomero y’ifishi azakoresha asaba indangamuntu. Kubindi bisobanuro: info@nida.gov.rw",
+        "prodTime":"Umunsi 1",
+        "price":"Ntiyishyurwa",
+        "providedBy":"NIDA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Indi migereka yasabwa (3)",
+                "details":"1. Inyandiko y'ivuka, 2. Icyemezo cy'amavuko, 3. Inyandiko Mpine y'Ivuka"
+            }
+
+        ],
+        "notice":null,
+        "section":"Irangamimerere",
+        "link":"https://irembo.gov.rw/user/citizen/service/nida/registration_of_citizens_above_16_years"
+    },
+    {
+        "title":"Gusimbuza Indangamuntu Yatakaye",
+        "description":"Iyi serivisi ifasha abanyarwanda cyangwa impunzi ziba mu Rwanda gusaba indangamuntu isimbura iyatakaye cyangwa yangiritse. Usaba ashobora gusaba icyangombwa cy'agateganyo azakoresha mu gihe ategereje ko indangamuntu nshya ikorwa. Icyo cyangombwa azacyishyura Frw 500 kandi gifite agaciro k'iminsi 30 gusa. Kubindi bisobanuro: info@nida.gov.rw",
+        "prodTime":"Iminsi 30",
+        "price":"RWF 1,500",
+        "providedBy":"NIDA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Irangamimerere",
+        "link":"https://irembo.gov.rw/user/citizen/service/nida/replacement_of_national_id"
+    },
+    {
+        "title":"Icyemezo cy'umwirondoro wuzuye",
+        "description":"Iyi serivisi ifasha abayikoresha gusaba Icyemezo cy’Umwirondoro wuzuye. Icyi cyemezo gishobora gukoreshwa nk’imwe mu nyandiko ziherekeza dosiye isaba serivisi nko kwiyandikisha mu bizamini bya Leta by’amashuri abanza n’ayisumbuye, kwinjira mu gisirikare, gusaba viza, n’ibindi. Dosiye isaba yoherezwa ku buyobozi bw’inzego z’ibanze ku rwego rw'umurenge kugirango isuzumwe.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 500",
+        "providedBy":"MINALOC",
+        "hasSelection":true,
+        "selectOptions":["Ndisabira","Umwana"],
+        "more":null,
+        "notice":null,
+        "section":"Irangamimerere",
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/certificate_of_full_identity"
+    },
+    {
+        "title":"Icyemezo cyo guhinduza izina: Gusaba uburenganzira bwo guhindura amazina",
+        "description":"Iyi serivisi ifasha abanyarwanda gutangira gusaba guhindura amazina byemewe n'amategeko. Usaba bamwoherereza ibaruwa imwemerera guhinduza amazina azakoresha atangaza mw'Igazeti ya Leta no mu bitangazamakuru.",
+        "prodTime":"Iminsi 7",
+        "price":"Ntiyishyurwa",
+        "providedBy":"MINALOC",
+        "hasSelection":true,
+        "selectOptions":["Abakuze","Umwana"],
+        "more":[
+            {
+                "title":"Indi migereka yasabwa",
+                "details":"Inyandiko y'Ishyingirwa"
+            },
+            {
+                "title":"Umwe muri iyi migereka urakenewe (6)",
+                "details":"1. Batism card issued at birth, 2. Ifishi y'amanota y'ibizamini bya Leta P6, 3. Ifishi y'amanota y'ibizamini bya Leta S3, 4. Ifishi y'amanota y'ibizamini bya Leta S6, 5. Ifishi wiyandikishirijeho gukora ikizamini cya Leta iriho ifoto,6. Impamyabumenyi y'amashuri yisumbuye"
+            }
+        ],
+        "notice":null,
+        "section":"Irangamimerere",
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/change_of_name"
+    },
+    {
+        "title":"Icyemezo cyo guhinduza izina: Gusaba icyemezo cyo guhindura amazina",
+        "description":"Iyi serivisi ifasha abanyarwanda gusaba icyemezo cyo guhindura amazina byemewe n'amategeko. Usaba bamwoherereza icyemezo cyizakoreshwa mu guhinduza mu bitabo binyuranye by'irangamimerere.",
+        "prodTime":"Iminsi 7",
+        "price":"RWF 20,000",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Imigereka isabwa (2)",
+                "details":"1. Inyandiko yo kwamamaza mw'igazeti ya Leta, 2. Inyandiko yo kwamamaza mu bitangazamakuru"
+            }
+        ],
+        "notice":null,
+        "section":"Irangamimerere",
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/change_of_name"
+    },
+    {
+        "title":"Gusaba gukosorerwa Indangamuntu",
+        "description":"Iyi serivisi ifasha abanyarwanda gusaba gukosoza indangamuntu zabo. Nyuma yo gusaba no kwishyura, usaba agomba kujya ku murenge yahisemo akerekana inyandiko ziherekeza dosiye isaba zisobanura impamvu asaba iyi serivisi. Iyo dosiye imaze gutunganywa, usaba ajya gufata indangamuntu ikosoye ku murenge yiyandikishijemo. Kubindi bisobanuro: info@nida.gov.rw",
+        "prodTime":"Iminsi 30",
+        "price":"RWF 1,500",
+        "providedBy":"NIDA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Irangamimerere",
+        "link":"https://irembo.gov.rw/user/citizen/service/nida/payment_for_id_correction"
+    },
+    {
+        "title":"Icyemezo cy'ubwenegihugu",
+        "description":"Icyemezo cy' Ubwenegihugu gihabwa umunyarwanda kugirango gihamye ko afite ubwenegihugu bw'u Rwanda.Dosiye isaba yoherezwa ku buyobozi bw’inzego z’ibanze ku rwego rw'umurenge kugirango isuzumwe.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 1,500",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":["Ndisabira","Umwana"],
+        "more":null,
+        "notice":null,
+        "section":"Irangamimerere",
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/certificate_of_nationality"
+    },
+    {
+        "title":"Icyemezo cy'uko umuntu ariho",
+        "description":"Icyemezo cy'uko Umuntu Ariho gitangwa n'ubuyobozi cyikerekana ko umuntu ariho. Dosiye isaba yoherezwa mu buyobozi bw’inzego z’ibanze ku murenge kugirango isuzumwe. Icyi cyemezo gifite agaciro k'amezi atatu.",
+        "prodTime":"Umunsi 1",
+        "price":"Kirahinduka",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":["Ndisabira","Umwana"],
+        "more":null,
+        "notice":null,
+        "section":"Irangamimerere",
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/certificate_of_being_alive"
+    },
+    {
+        "title":"Icyemezo gisimbura indangamuntu",
+        "description":"Icyangombwa gisimbura indangamuntu yatakaye gihabwa abanyarwanda kugirango bagikoreshe by'agateganyo mu gihe bategereje gukorerwa indangamuntu nshya.. Dosiye isaba yoherezwa ku buyobozi bw’inzego z’ibanze ku rwego rw'umurenge kugirango isuzumwe.",
+        "prodTime":"Umunsi 1",
+        "price":"RWF 500",
+        "providedBy":"MINALOC",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":null,
+        "section":"Irangamimerere",
+        "link":"https://irembo.gov.rw/user/citizen/service/minaloc/certificate_for_the_loss_of_identity_card_temporary_id_issuance"
+    },
+    {
+        "title":"Kwandikisha ubutaka butabaruwe",
+        "description":"Iyi serivisi ifasha ba nyir'ubutaka kwandikisha ubutaka bwa mbere. Iyo dosiye imaze gukorwa, uwasabye ahabwa ibyangombwa by'ubutaka.",
+        "prodTime":"Iminsi yo gukora 7",
+        "price":"Kirahinduka",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Imigereka isabwa",
+                "details":"Inyandiko ihamya nyir'ubutaka"
+            },
+            {
+                "title":"Indi migereka yasabwa (5)",
+                "details":"1. Inyandiko y'ishyirahamwe yakorewe imbere ya Noteri, 2. Icyemezo cyo kuba Warashyingiwe, 3. Icyemezo cy'uko uri ingaragu, 4. Icyemezo cy'ubupfakazi, 5. Icyemezo cy'ubutane"
+            },
+            {
+                "title":"Umwe muri iyi migereka urakenewe (2)",
+                "details":"1. Ifishi yemeza UPI, 2. Igishushanyo mbonera cyemejwe"
+            }
+        ],
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Kwishyura ukoresheje ikoranabuhanga: New Land document",
+        "description":"Payment of new land document",
+        "prodTime":"Iminsi yo gukora 1",
+        "price":"RWF 5,000",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Kwishyura ukoresheje ikoranabuhanga: Kwandikisha uburenganzira ku butaka buhuriweho n'abantu benshi",
+        "description":"Kwishyura Kwandikisha uburenganzira ku butaka buhuriweho n'abantu benshi",
+        "prodTime":"Iminsi yo gukora 1",
+        "price":"RWF 5,000",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Kwishyura ukoresheje ikoranabuhanga: Guhindura uburenganzira k'ubutaka buva k'uwabuhoranye bujya k'ubufite ubu",
+        "description":"Kwishyura Guhindura uburenganzira k'ubutaka buva k'uwabuhoranye bujya k'ubufite ubu",
+        "prodTime":"Iminsi yo gukora 1",
+        "price":"RWF 5,000",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Kwishyura ukoresheje ikoranabuhanga: Gukosora imbibi no gukosora ubuso bw'ubutaka",
+        "description":"Kwishyura Gukosora imbibi no gukosora ubuso bw'ubutaka",
+        "prodTime":"Iminsi yo gukora 1",
+        "price":"RWF 15,000",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Kwishyura ukoresheje ikoranabuhanga: Ifishi y'ubutaka",
+        "description":"Kwishyura Ifishi y'ubutaka",
+        "prodTime":"Iminsi yo gukora 1",
+        "price":"RWF 10,000",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Kwishyura ukoresheje ikoranabuhanga: Kwishyura icyangombwa cy'umutungo w'ubutaka",
+        "description":"Icyangombwa cy'umutungo w'ubutaka",
+        "prodTime":" Iminsi yo gukora 1",
+        "price":"RWF 1,500",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Kwishyura ukoresheje ikoranabuhanga: Iyandikisha ry'ubutaka butabaruwe",
+        "description":"Kwishyura iyandikisha ry'ubutaka butabaruwe",
+        "prodTime":" Iminsi yo gukora 1",
+        "price":" Kirahinduka",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Kwishyura ukoresheje ikoranabuhanga: Guhindura ubukode bw'ubutaka bukaba inkondabutaka",
+        "description":"Kwishyura Guhindura ubukode bw'ubutaka bukaba inkondabutaka",
+        "prodTime":" Iminsi yo gukora 1",
+        "price":"RWF 5,000",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":null,
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Gushyira umukono wa Noteri ku masezerano y'inguzanyo",
+        "description":"Iyi serivisi ifasha ba nyir'ubutaka gutiza undi muntu ubutaka bwabo kugirango butangweho ingwate ku nguzanyo yasabye. Iyo dosiye imaze gukorwa, uwasabye bamuha icyangombwa kimwemerera kugwatiriza ubutaka bwe.",
+        "prodTime":" Iminsi yo gukora 1",
+        "price":"RWF 5,000",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Imigereka isabwa (2)",
+                "details":"1. Inyandiko z'ubutaka, 2. Igishushanyo mbonera"
+            }
+        ],
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Guhindura imikoreshereze y'ubutaka",
+        "description":"Iyi serivisi ifasha ba nyir'ubutaka guhuza imikoreshereze y'ubutaka bwabo niyemewe n'igishushanyo mbonera gikoreshwa muri icyo gihe. Iyo dosiye imaze gutunganywa, nyir'ubutaka ahabwa icyangombwa gishya cy'ubutaka bwahujwe n'imikoreshereze yemewe.",
+        "prodTime":" Iminsi yo gukora 7",
+        "price":"RWF 5,000",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Imigereka isabwa (2)",
+                "details":"1. Inyandiko z'ubutaka, 2. Uruhushya rwo guhindura imikoreshereze y'ubutaka"
+            },
+            {
+                "title":"Indi migereka yasabwa",
+                "details":"Ibaruwa ya banki itanga uburenganzira bwo guhindura imikoreshereze y'ubutaka"
+            }
+        ],
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Gukosoza amakuru mu gitabo cy'inyandiko z'ubutaka: Gukosoza amakuru mu gitabo cy'inyandiko z'ubutaka",
+        "description":"Iyi serivisi ifasha ba nyir'ubutaka gukosoza amakuru muri rejisitiri y'ubutaka nk'indangamuntu, amazina ya nyir'ubutaka, aho abarizwa, abamuhagariye n'ibindi.",
+        "prodTime":" Iminsi yo gukora 1",
+        "price":"RWF 5,000",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Indi migereka yasabwa (3)",
+                "details":"1. Inyandiko z'uburenganzira ku butaka (Ku nkondabutaka cyangwa ngenankomyi), 2. Icyemezo cy'iyandikisha ry'ubukode bw'igihe kirekire (Mu igihe ubutaka bukodeheje),3. Amasezerano y'ubukode bw'ubutaka bw'igihe kirekire (Mu igihe ubutaka bukodeheje)"
+            }
+        ],
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Gukosoza amakuru mu gitabo cy'inyandiko z'ubutaka: Gusaba kongeramo cyangwa gukuramo ba nyirubutaka",
+        "description":"Iyi serivisi ifasha abasaba serivisi kuvugurura amakuru yerekeye ubutaka bwabo mu gitabo cy'inyandiko z'ubutaka.",
+        "prodTime":" Iminsi yo gukora 7",
+        "price":" Kirahinduka",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Indi migereka yasabwa (5)",
+                "details":"1. Icyemezo cyo kuba Warashyingiwe, 2. Icyemezo cy'uko uwo mwashakanye yitabye Imana, 3. Inyandiko y'Ishyingirwa, 4. Icyemezo cy'urukiko na/cyangwa raporo y'umuhesha w'inkiko ubifitiye ububasha, 5. Court decision ordering to register the surviving spouse as right holder"
+            }
+        ],
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Gusimbuza inyandiko z'ubutaka",
+        "description":"Iyi serivisi ifasha ba nyir'ubutaka gusaba isimbuzwa ry'inyandiko z'ubutaka zabo.",
+        "prodTime":" Iminsi yo gukora 7",
+        "price":"RWF 10,000",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Indi migereka yasabwa (4)",
+                "details":"1. Inyandiko ihamya imenyekanisha mu gihe cy'ibyumweru bibiri nyuma y'uko inyandiko z'ubutaka zitakara, 2. Icyangombwa cy'ubutaka cyangiritse, 3. Inyandiko mpamo iriho umukono waba nyir'ubutaka babwanditseho, 4. Inyandiko mpamo yakorewe imbere wa Noteri w'ubutaka"
+            }
+        ],
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
+    },
+    {
+        "title":"Ihererekanya ry'uburenganzira ku butaka: Kopi y'icyemezo cy'urukiko",
+        "description":"Iyi serivisi ifasha ba nyirubutaka guhererekanya uburenganzira ku butaka bwabo bishingiye ku cyemezo cy'urukiko.",
+        "prodTime":" Iminsi yo gukora 7",
+        "price":"RWF 25,000",
+        "providedBy":"NLA",
+        "hasSelection":false,
+        "selectOptions":null,
+        "more":[
+            {
+                "title":"Imigereka isabwa (2)",
+                "details":"1. Icyemezo cy'urukiko na/cyangwa raporo y'umuhesha w'inkiko ubifitiye ububasha, 2. Inyandiko z'ubutaka (buhererekanywa)"
+            },
+            {
+                "title":"Indi migereka yasabwa (2)",
+                "details":"1. Icyemezo cyo gushyingirwa cy'utanga ubutaka, 2. Icyemezo cy'uko utanga ubutaka ari ingaragu"
+            }
+        ],
+        "notice":"Ntushobora gusaba iyi servisi niba udafite konti ku Irembo",
+        "section":"Ubutaka",
+        "link":""
     }
 ]
